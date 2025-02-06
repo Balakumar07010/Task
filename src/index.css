@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Poppins", serif;
+
+  --breakpoint-3xl: 1920px;
+  --color-primary: #6e8e59; /* Dark Green */
+  --color-secondary: #cae0bc; /* light Green */
+  --color-alternative: #780c28; /* light Meron */
+  --color-test: #eafaea; /* white */
+  --breakpoint-tablet: 450px;
+  --shadow-6xl: 5px 5px 5px 1px rgba(148, 145, 145, 0.75);
+  /* --shadow-6xl: 8px 7px 1px -2px rgba(199,191,191,0.75); */
+}
